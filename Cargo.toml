@@ -37,3 +37,6 @@ dirs.workspace = true
 lazy_static.workspace = true
 parking_lot.workspace = true
 win-hotkeys.workspace = true
+
+[patch.crates-io]
+win-hotkeys = { git = "https://github.com/Funkest/win-hotkeys", branch = "funkest" }

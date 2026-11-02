@@ -988,8 +988,7 @@ dependencies = [
 [[package]]
 name = "win-hotkeys"
 version = "0.5.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "14c2e297b6ac0156e4c3ba10c377ad955efdcba2c4e19d084435a0536dcd893a"
+source = "git+https://github.com/Funkest/win-hotkeys?branch=funkest#fc98b9443393b09b6287329f41cd38a96f09327b"
 dependencies = [
  "crossbeam-channel",
  "thiserror",
