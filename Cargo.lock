@@ -988,7 +988,7 @@ dependencies = [
 [[package]]
 name = "win-hotkeys"
 version = "0.5.1"
-source = "git+https://github.com/Funkest/win-hotkeys?branch=funkest#fc98b9443393b09b6287329f41cd38a96f09327b"
+source = "git+https://github.com/Funkest/win-hotkeys?branch=funkest#ae7f5b039bb9d34c7b069c4ce71522ee351868cd"
 dependencies = [
  "crossbeam-channel",
  "thiserror",
